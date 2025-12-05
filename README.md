@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-**shorefulisla/shorefulisla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 About Me:
 CS student passionate about coding, learning new tech, and building projects that solve real-world problems.
 
